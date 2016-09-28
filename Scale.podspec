@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "Scale"
-  s.version          = "1.0.0"
+  s.version          = "1.1.0"
   s.summary          = "Unit converter in Swift"
 
   s.homepage         = "https://github.com/onmyway133/Scale"
